@@ -1,10 +1,13 @@
-# TensorFlowAndroidMNIST - Android MNIST demo with TensorFlow
+<hr>
 
-This is a demo app for Android with Tensorflow to detect handwritten digits.
+# Android OpenCV demo with TensorFlow
 
-![image](http://narr.jp/private/miyoshi/tensorflow/mnist_screen0.png)
+* Scans tabular images
+* Recognizes digits 
+* Writes to Excel file
 
-This Android demo is based on Tensorflow tutorial.
+
+<hr>
 
 MNIST For ML Beginners
 https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/index.html
@@ -71,3 +74,5 @@ and copy .so file into app/src/main/jniLibs/armeabi-v7a/ with
 (Unlike original Android demo in Tensorflow, you don't need to install bazel to build this demo.
 
 Tensorflow library files (.a files) and header files are extracted from original Tensorflow Android demo r0.10.
+
+<hr>
