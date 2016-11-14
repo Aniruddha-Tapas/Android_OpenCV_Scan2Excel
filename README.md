@@ -2,9 +2,9 @@
 
 # Android OpenCV demo with TensorFlow
 
-* Scans tabular images
-* Recognizes digits 
-* Writes to Excel file
+* Scans tabular images using OpenCV for Android
+* Recognizes digits using TensorFlow
+* Writes to Excel file [To be done!]
 
 
 <hr>
